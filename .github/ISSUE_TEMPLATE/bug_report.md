@@ -23,4 +23,4 @@ Screenshots are VERY helpful in explaining an issue.
 ## Steps to reproduce
 1. 
 2. 
-3.
+3. 
